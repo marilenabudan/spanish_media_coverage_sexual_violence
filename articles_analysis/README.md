@@ -14,7 +14,7 @@ Both analysis have been based on the presence of terms and regular expressions c
   * `INPUT_FILE_PATH`: Path to `cases_info.csv`, the CSV file outputed in the previous part of the project (Cases classification) mapping each tweet id with its cluster. 
 
 * **Additional requirements**:
-  * A Python file containing a dictionary with the regular expressions stored in categories. This file can be found in [utilities/regex_categories.py]().
-  * A txt file containing a list of nationalities in Spanish. This file can be found in [utilities/nacionalidades.txt]()
+  * A Python file containing a dictionary with the regular expressions stored in categories. This file can be found in [utilities/regex_categories.py](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/blob/main/articles_analysis/utilities/nacionalidades.txt).
+  * A txt file containing a list of nationalities in Spanish. This file can be found in [utilities/nacionalidades.txt](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/blob/main/articles_analysis/utilities/regex_categories.py)
 
-The notebook is self-explanatory and contains prints the results without storing them in any file-
+The notebook is self-explanatory and contains prints the results without storing in any external file. 
