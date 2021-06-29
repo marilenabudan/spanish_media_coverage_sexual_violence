@@ -1,5 +1,5 @@
 # DATA
-This directory contains a zip file—`data.zip`—containing the data collection of tweets and news articles obtained in the first phase of the project: [Dastaset creation](). The zip file contains:
+This directory contains a zip file—`data.zip`—containing the data collection of tweets and news articles obtained in the first phase of the project: [Dastaset creation](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/dataset_creation). The zip file contains:
 
 - `tweets`: a directory containing 10 sub-directories; each of them contains:
   * 15 CSV files, one per each media outlet considered, with 1.000 tweets.
@@ -11,7 +11,7 @@ This directory contains a zip file—`data.zip`—containing the data collection
 
 - `cases_labeled.csv`: a CSV file containing tweets labeled according to their case. 
 
-- `cases_pairwise_proba.csv`, `cases_info.csv`, and `cases_ids.csv`: outputs generated in the second phase of the project [Cases classification]().
+- `cases_pairwise_proba.csv`, `cases_info.csv`, and `cases_ids.csv`: outputs generated in the second phase of the project [Cases classification](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/cases_classification).
 
 
 <br>The zip file is protected with a password that can be obtained by requesting it through email to `marilena.budan01@estudiant.upf.edu`. 
