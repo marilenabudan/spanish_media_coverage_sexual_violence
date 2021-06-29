@@ -13,18 +13,18 @@ This repository contains the code and resources used for the development of my e
 
 ## Data and code release
 The project consist on three main phases, which correspond with the directories of the present repository: 
-1. **[Dataset creation]()**: The analysis has been conducted on the basis of the dataset created in this first phase. The dataset consist on a collection of news articles about sexual violence, published by the top-15 online media outlets in Spain. For the obtention of this dataset, we collected tweets from the official accounts of the said media outlets, classified them depending on their topic (sexaul violence or not) and we downloaded tweets' corresponding news articles.<br>
-   * [Code and resources]() 
-   * [Resulting dataset]()
+1. **[Dataset creation](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/dataset_creation)**: The analysis has been conducted on the basis of the dataset created in this first phase. The dataset consist on a collection of news articles about sexual violence, published by the top-15 online media outlets in Spain. For the obtention of this dataset, we collected tweets from the official accounts of the said media outlets, classified them depending on their topic (sexaul violence or not) and we downloaded tweets' corresponding news articles.<br>
+   * [Code and resources](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/dataset_creation) 
+   * [Resulting dataset](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/data)
 
 
-2. **[Cases classification]()**: News articles were grouped according to the sexual violence case they share information about. The clustering was done in two steps: first, we computed the similarity of each pair of cases; next, we clustered articles based on this similarity. 
-   * [Code and resources]()
-   * [Results]()
+2. **[Cases classification](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/cases_classification)**: News articles were grouped according to the sexual violence case they share information about. The clustering was done in two steps: first, we computed the similarity of each pair of cases; next, we clustered articles based on this similarity. 
+   * [Code and resources](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/cases_classification)
+   * [Results](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/data)
 
 
-3. **[Articles analysis]()**: Articles were analyzed from two points of view: the coverage of sexual violence, infering cases' characteristics and studying their correspondence with official statistics; and the analysis of the information provided in articles, focusing on the presence of distinct information, and the perpetration of stereotypes and misconceptions about sexual violence.
-   * [Code and resources]()
+3. **[Articles analysis](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/articles_analysis)**: Articles were analyzed from two points of view: the coverage of sexual violence, infering cases' characteristics and studying their correspondence with official statistics; and the analysis of the information provided in articles, focusing on the presence of distinct information, and the perpetration of stereotypes and misconceptions about sexual violence.
+   * [Code and resources](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/articles_analysis)
    * Results are included in code (Python notebook). 
    
 
